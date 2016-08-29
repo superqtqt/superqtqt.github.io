@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2016/08/24/1-1GeneralizedLinearModels/</loc>
+    
+    <lastmod>2016-08-29T01:15:33.706Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2016/08/10/scikit-learn-quickStart/</loc>
     
-    <lastmod>2016-08-16T02:12:53.660Z</lastmod>
+    <lastmod>2016-08-28T03:02:00.008Z</lastmod>
     
   </url>
   
